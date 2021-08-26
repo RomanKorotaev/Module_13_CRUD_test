@@ -1,0 +1,30 @@
+{
+  "name": "module_13_crud_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "my_test_script" : "echo \"Привет! Это мой тестовый скрипт!\"",
+    "my_test_script_echo" : "echo \" echo - используется для вывода в консоль текста.\"",
+    "my_test_script_pwd" : "pwd",
+    "my_test_script_ls" : "ls -l",
+    "my_test_script_all" :"npm run my_test_script_pwd  && npm run my_test_script_ls"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RomanKorotaev/Module_13_CRUD_test.git"
+  },
+  "author": "RomanKorotaev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RomanKorotaev/Module_13_CRUD_test/issues"
+  },
+  "homepage": "https://github.com/RomanKorotaev/Module_13_CRUD_test#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "joi": "^17.4.2",
+    "shortid": "^2.2.16"
+  }
+}
