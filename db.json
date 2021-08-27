@@ -144,7 +144,20 @@
       ],
       "rating": 9,
       "id": 21
+    },
+    {
+      "title": "ПТестовая книга",
+      "author": "Я",
+      "genres": [
+        "JS"
+      ],
+      "rating": 10,
+      "id": 22
     }
   ],
-  "users": ["Mango", "Polly", "Tom"]
+  "users": [
+    "Mango",
+    "Polly",
+    "Tom"
+  ]
 }
