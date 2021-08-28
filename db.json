@@ -200,16 +200,14 @@
       "id": 27
     },
     {
-      "title": "Тестовая книга по CSS",
+      "title": "Тестовая книга по Phyton",
       "author": "Я",
-      "genres": [
-        "CSS"
-      ],
-      "rating": 9,
+      "genres": "Phyton",
+      "rating": 9.9,
       "id": 28
     },
     {
-      "title": "Тестовая книга по CSS",
+      "title": "БОЛЬШАЯ НОВАЯ тестовая книга по CSS",
       "author": "Я",
       "genres": [
         "CSS"
