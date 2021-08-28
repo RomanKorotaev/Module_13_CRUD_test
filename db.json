@@ -294,16 +294,7 @@
         "HTML"
       ],
       "rating": 8,
-      "id": 38
-    },
-    {
-      "title": "Тестовая книга по C++",
-      "author": "Я",
-      "genres": [
-        "C++"
-      ],
-      "rating": 7.7,
-      "id": 39
+      "id": 40
     },
     {
       "title": "Тестовая книга по HTML",
@@ -312,7 +303,7 @@
         "HTML"
       ],
       "rating": 8,
-      "id": 40
+      "id": 41
     },
     {
       "title": "Тестовая книга по C++",
@@ -321,7 +312,79 @@
         "C++"
       ],
       "rating": 7.7,
-      "id": 41
+      "id": 42
+    },
+    {
+      "title": "Тестовая книга по HTML",
+      "author": "Я",
+      "genres": [
+        "HTML"
+      ],
+      "rating": 8,
+      "id": 43
+    },
+    {
+      "title": "Тестовая книга по C++",
+      "author": "Я",
+      "genres": [
+        "C++"
+      ],
+      "rating": 7.7,
+      "id": 44
+    },
+    {
+      "title": "Тестовая книга по HTML",
+      "author": "Я",
+      "genres": [
+        "HTML"
+      ],
+      "rating": 8,
+      "id": 45
+    },
+    {
+      "title": "Тестовая книга по C++",
+      "author": "Я",
+      "genres": [
+        "C++"
+      ],
+      "rating": 7.7,
+      "id": 46
+    },
+    {
+      "title": "Тестовая книга по HTML",
+      "author": "Я",
+      "genres": [
+        "HTML"
+      ],
+      "rating": 8,
+      "id": 47
+    },
+    {
+      "title": "Тестовая книга по C++",
+      "author": "Я",
+      "genres": [
+        "C++"
+      ],
+      "rating": 7.7,
+      "id": 48
+    },
+    {
+      "title": "Тестовая книга по HTML",
+      "author": "Я",
+      "genres": [
+        "HTML"
+      ],
+      "rating": 8,
+      "id": 49
+    },
+    {
+      "title": "Тестовая книга по C++",
+      "author": "Я",
+      "genres": [
+        "C++"
+      ],
+      "rating": 7.7,
+      "id": 50
     }
   ],
   "users": [

@@ -38,13 +38,18 @@ function addBook(book) {
     "rating": 8,
  }).then(renderBook)
 
+
   addBook ({
-    "title": "Тестовая книга по C++",
-    "author": "Я",
-    "genres": [ "C++" ],
-    "rating": 7.7,
-}).then(renderBook)
+        "title": "Тестовая книга по C++",
+        "author": "Я",
+        "genres": [ "C++" ],
+        "rating": 7.7,
+    })
+      .then(renderBook)
+      .catch(error => console.log(error)) //Обработка ошибки. Репета. Модуль 13. Занятие 25, время: 1:27:00
  
+
+
 function renderBook(book) {
     console.log('Пришёл ответ от бекенда, можно рисовать');
      console.log(book);
